@@ -1,0 +1,4 @@
+Super Usuário:
+
+username:admin
+password:admin1234
